@@ -23,7 +23,7 @@ LinkedIn → https://www.linkedin.com/in/fauzan-boat-b63533258/
 
 ### 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FauzanBoat&show_icons=true)  
+https://github-readme-stats.vercel.app/api?username=fauzandoc007-arch&show_icons=true 
 
 ---
 
