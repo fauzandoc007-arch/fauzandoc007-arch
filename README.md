@@ -1,29 +1,43 @@
 # Hi there, I'm **Fauzan Boat** 👋
 
-### 🚀 Data Analyst
-
-I’m a passionate Data Analyst who loves solving business problems using data.
+## 🌐 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/fauzan-boat-b63533258/)
 
 ---
 
-### 🧰 Skills & Tools
+## 👨‍💻 About Me
+I'm a **Data Analyst** with a strong passion for turning raw data into meaningful insights.
 
-- SQL  
+I enjoy:
+- Building dashboards (Power BI / Excel)
+- Creating reports backed by SQL
+- Cleaning & transforming messy data into usable structured datasets
+- Solving real-world business problems using data
+
+📈 Currently learning more advanced analytics & data visualization techniques.
+
+---
+
+## 🧠 Skills
+
+### Programming / Querying
+- SQL
+
+### Data & Tools
 - Power BI  
 - Excel  
 - Power Query  
 
+### Soft Skills
+- Problem Solving  
+- Analytical Thinking  
+- Consistency in Learning
+
 ---
 
-### 📫 Connect with me
+## 📊 GitHub Analytics
 
-LinkedIn → https://www.linkedin.com/in/fauzan-boat-b63533258/
-
----
-
-### 📊 GitHub Analytics
-
-https://github-readme-stats.vercel.app/api?username=fauzandoc007-arch&show_icons=true 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fauzandoc007-arch&show_icons=true)
 
 ---
 
