@@ -1,9 +1,5 @@
 # Hi there, I'm **Fauzan Boat** 👋
 
-## 🌐 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/fauzan-boat-b63533258/)
-
----
 
 ## 👨‍💻 About Me
 I'm a **Data Analyst** with a strong passion for turning raw data into meaningful insights.
